@@ -1,9 +1,9 @@
-# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+# [GitHub Stats Visualization](https://github.com/selanda/github-stats)
 
-<a href="https://github.com/jstrieb/github-stats">
+<a href="https://github.com/selanda/github-stats">
    
-![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/selanda/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/selanda/github-stats/blob/master/generated/languages.svg)
 
 </a>
 
@@ -65,8 +65,7 @@ caches statistics for your repositories. For more information, see issue
 3. Go to the "Settings" tab of the fork and go to the "Secrets" page (bottom
    left). Create a new secret with the name `ACCESS_TOKEN` and paste the copied
    personal access token as the value.
-4. Go to the "Actions" tab of the fork and hit the big green button to enable
-   Actions.
+4. Go to the "Actions" tab of the fork confirm that Actions are Enabled.
 5. If you want to ignore certain repos, add them (separated by commas) to a new
    secret—created as before—called `EXCLUDED`.
 6. Commit a small change to the repo (for example remove a newline from the end
