@@ -59,7 +59,7 @@ caches statistics for your repositories. For more information, see issue
    the instructions
    [here](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token).
    Personal access token must have permissions: `read:user` and `repo`. Copy
-   the access token when it is generated – if you lose it, you will have to
+   the access token – if you lose it, you will have to
    regenerate the token.
 2. Fork the repository.
 3. Go to the "Settings" tab of the fork and go to the "Secrets" page (bottom
