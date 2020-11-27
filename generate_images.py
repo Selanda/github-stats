@@ -75,7 +75,6 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">{lang}</span>
 <span class="percent">{data.get("prop", 0):0.2f}%</span>
 </li>
-
 """
 
     output = re.sub(r"{{ progress }}", progress, output)
