@@ -104,7 +104,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #0298c3;width: 64.713%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 28.221%;" class="progress-item"></span><span style="background-color: #b07219;width: 3.831%;" class="progress-item"></span><span style="background-color: #012456;width: 3.235%;" class="progress-item"></span>
+<span style="background-color: #0298c3;width: 64.721%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 28.212%;" class="progress-item"></span><span style="background-color: #b07219;width: 3.832%;" class="progress-item"></span><span style="background-color: #012456;width: 3.235%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -116,7 +116,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Perl</span>
-<span class="percent">64.71%</span>
+<span class="percent">64.72%</span>
 </li>
 
 <li style="animation-delay: 150ms;">
@@ -124,7 +124,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Batchfile</span>
-<span class="percent">28.22%</span>
+<span class="percent">28.21%</span>
 </li>
 
 <li style="animation-delay: 300ms;">
